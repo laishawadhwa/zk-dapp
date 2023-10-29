@@ -13,3 +13,5 @@ sudoku/public.json
 sudoku/verification_key.json
 sudoku/sudokuVerifier.sol
 sudoku/parameters.txt
+
+.yarn
